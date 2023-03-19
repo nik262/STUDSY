@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+//function that handles the drag and drop of file from the users local machine
